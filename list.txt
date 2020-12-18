@@ -1,0 +1,10 @@
+uncrate.com
+devour.com
+talkingpointsmemo.com
+kottke.org
+news.ycombinator.com
+facebook.com
+daringfireball.net
+news.google.com
+boingboing.net
+metafilter.com
