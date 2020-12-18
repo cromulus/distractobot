@@ -8,3 +8,5 @@ daringfireball.net
 news.google.com
 boingboing.net
 metafilter.com
+nytimes.com
+trailers.apple.com
